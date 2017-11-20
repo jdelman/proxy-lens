@@ -1,0 +1,25 @@
+{
+  "name": "proxy-lens",
+  "version": "1.0.0",
+  "description": "An object proxy for natively accessing deep object properties",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdelman/proxy-lens.git"
+  },
+  "author": "Josh Delman (jdelman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdelman/proxy-lens/issues"
+  },
+  "homepage": "https://github.com/jdelman/proxy-lens#readme",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
